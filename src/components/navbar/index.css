@@ -1,0 +1,16 @@
+.navbar-wrapper {
+  display: flex;
+  flex-direction: row;
+  padding: 10px 20px;
+  justify-content: space-between;
+  align-items: center;
+  height: 120px;
+}
+
+.navbar-wrapper .left,
+.navbar-wrapper .middle,
+.navbar-wrapper .right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

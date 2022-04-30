@@ -1,0 +1,55 @@
+.zuoshang {
+  position: absolute;
+  left: 15px;
+  top: 15px;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-size: 16px;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 5px 10px;
+
+  .icon {
+    margin-right: 5px;
+  }
+}
+
+.youshang {
+  position: absolute;
+  right: 15px;
+  top: 15px;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-size: 16px;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 5px 10px;
+}
+
+.youxia {
+  position: absolute;
+  right: 15px;
+  bottom: 15px;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-size: 16px;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 5px 10px;
+}
+
+.zuoxia {
+  position: absolute;
+  left: 15px;
+  bottom: 15px;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-size: 16px;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 5px 10px;
+}
